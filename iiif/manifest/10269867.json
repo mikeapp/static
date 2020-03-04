@@ -12,13 +12,13 @@
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/0",
                     "@type": "sc:Canvas",
                     "label": "[Panel 1]",
+                    "height": 10157,
+                    "width": 3007,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/0",
-                            "height": 10157,
-                            "width": 3007,
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/1/1003311/1003311.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -37,13 +37,13 @@
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/1",
                     "@type": "sc:Canvas",
                     "label": "[Panel 2]",
+                    "height": 10157,
+                    "width": 3007,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/1",
-                            "height": 10157,
-                            "width": 3007,
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/2/1003312/1003312.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -62,13 +62,13 @@
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/2",
                     "@type": "sc:Canvas",
                     "label": "[Panel 3]",
+                    "height": 8093,
+                    "width": 3007,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/2",
-                            "height": 8093,
-                            "width": 3007,
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/3/1003313/1003313.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -87,13 +87,13 @@
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/3",
                     "@type": "sc:Canvas",
                     "label": "Recto Stitched",
+                    "height": 24502,
+                    "width": 3070,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/3",
-                            "height": 24502,
-                            "width": 3070,
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/15512394/15512394.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -112,13 +112,13 @@
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/4",
                     "@type": "sc:Canvas",
                     "label": "Verso Panel 1",
+                    "height": 9948,
+                    "width": 3080,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/4",
-                            "height": 9948,
-                            "width": 3080,
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/15512395/15512395.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -137,13 +137,13 @@
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/5",
                     "@type": "sc:Canvas",
                     "label": "Verso Panel 2",
+                    "height": 10302,
+                    "width": 3080,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/5",
-                            "height": 10302,
-                            "width": 3080,
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/15512396/15512396.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -162,13 +162,13 @@
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/6",
                     "@type": "sc:Canvas",
                     "label": "Verso Panel 3",
+                    "height": 8359,
+                    "width": 3080,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/6",
-                            "height": 8359,
-                            "width": 3080,
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/15512397/15512397.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
@@ -187,13 +187,13 @@
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/7",
                     "@type": "sc:Canvas",
                     "label": "Verso Stitched",
+                    "height": 24517,
+                    "width": 3320,
                     "images": [
                         {
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/7",
-                            "height": 24517,
-                            "width": 3320,
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/15512398/15512398.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",

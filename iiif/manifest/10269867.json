@@ -16,12 +16,14 @@
                     "width": 3007,
                     "images": [
                         {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/0/image/1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/0",
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/1/1003311/1003311.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
+                                "format": "image/jpeg",
                                 "height": 10157,
                                 "width": 3007,
                                 "service": {
@@ -41,12 +43,14 @@
                     "width": 3007,
                     "images": [
                         {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/1/image/1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/1",
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/2/1003312/1003312.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
+                                "format": "image/jpeg",
                                 "height": 10157,
                                 "width": 3007,
                                 "service": {
@@ -66,12 +70,14 @@
                     "width": 3007,
                     "images": [
                         {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/2/image/1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/2",
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/3/1003313/1003313.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
+                                "format": "image/jpeg",
                                 "height": 8093,
                                 "width": 3007,
                                 "service": {
@@ -91,12 +97,14 @@
                     "width": 3070,
                     "images": [
                         {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/3/image/1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/3",
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/15512394/15512394.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
+                                "format": "image/jpeg",
                                 "height": 24502,
                                 "width": 3070,
                                 "service": {
@@ -116,12 +124,14 @@
                     "width": 3080,
                     "images": [
                         {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/4/image/1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/4",
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/15512395/15512395.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
+                                "format": "image/jpeg",
                                 "height": 9948,
                                 "width": 3080,
                                 "service": {
@@ -141,12 +151,14 @@
                     "width": 3080,
                     "images": [
                         {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/5/image/1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/5",
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/15512396/15512396.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
+                                "format": "image/jpeg",
                                 "height": 10302,
                                 "width": 3080,
                                 "service": {
@@ -166,12 +178,14 @@
                     "width": 3080,
                     "images": [
                         {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/6/image/1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/6",
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/15512397/15512397.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
+                                "format": "image/jpeg",
                                 "height": 8359,
                                 "width": 3080,
                                 "service": {
@@ -191,12 +205,14 @@
                     "width": 3320,
                     "images": [
                         {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/7/image/1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/7",
                             "resource": {
                                 "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/15512398/15512398.jp2/full/250,/0/default.jpg",
                                 "@type": "dctypes:Image",
+                                "format": "image/jpeg",
                                 "height": 24517,
                                 "width": 3320,
                                 "service": {

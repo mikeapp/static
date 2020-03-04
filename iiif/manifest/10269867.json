@@ -1,0 +1,214 @@
+{
+    "@id": "https://mikea.github.io/static/iiif/manifest/10269867.json",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "label": "Beinecke object OID 10269867",
+    "sequences": [
+        {
+            "@id": "https://mikea.github.io/static/iiif/manifest/sequence/10269867",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/0",
+                    "@type": "sc:Canvas",
+                    "label": "[Panel 1]",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/0",
+                            "height": 10157,
+                            "width": 3007,
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/1/1003311/1003311.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 10157,
+                                "width": 3007,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/1/1003311/1003311.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/1",
+                    "@type": "sc:Canvas",
+                    "label": "[Panel 2]",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/1",
+                            "height": 10157,
+                            "width": 3007,
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/2/1003312/1003312.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 10157,
+                                "width": 3007,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/2/1003312/1003312.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/2",
+                    "@type": "sc:Canvas",
+                    "label": "[Panel 3]",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/2",
+                            "height": 8093,
+                            "width": 3007,
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/3/1003313/1003313.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 8093,
+                                "width": 3007,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDIEVALBOOKIMG/3/1003313/1003313.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/3",
+                    "@type": "sc:Canvas",
+                    "label": "Recto Stitched",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/3",
+                            "height": 24502,
+                            "width": 3070,
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/15512394/15512394.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 24502,
+                                "width": 3070,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/15512394/15512394.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/4",
+                    "@type": "sc:Canvas",
+                    "label": "Verso Panel 1",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/4",
+                            "height": 9948,
+                            "width": 3080,
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/15512395/15512395.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 9948,
+                                "width": 3080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/15512395/15512395.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/5",
+                    "@type": "sc:Canvas",
+                    "label": "Verso Panel 2",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/5",
+                            "height": 10302,
+                            "width": 3080,
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/15512396/15512396.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 10302,
+                                "width": 3080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/15512396/15512396.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/6",
+                    "@type": "sc:Canvas",
+                    "label": "Verso Panel 3",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/6",
+                            "height": 8359,
+                            "width": 3080,
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/15512397/15512397.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 8359,
+                                "width": 3080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/15512397/15512397.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/7",
+                    "@type": "sc:Canvas",
+                    "label": "Verso Stitched",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikea.github.io/static/iiif/manifest/oid/10269867/canvas/7",
+                            "height": 24517,
+                            "width": 3320,
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/15512398/15512398.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 24517,
+                                "width": 3320,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/15512398/15512398.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

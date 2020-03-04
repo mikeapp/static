@@ -11,6 +11,9 @@
         {
             "@id": "https://mikeapp.github.io/static/iiif/manifest/sequence/16156712",
             "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
             "canvases": [
                 {
                     "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16156712/canvas/0",

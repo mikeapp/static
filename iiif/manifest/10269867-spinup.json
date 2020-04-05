@@ -1,0 +1,230 @@
+{
+    "@id": "https://mikeapp.github.io/static/iiif/manifest/10269867-spinup.json",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "label": "Beinecke object OID 10269867",
+    "sequences": [
+        {
+            "@id": "https://mikeapp.github.io/static/iiif/manifest/sequence/10269867",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/0",
+                    "@type": "sc:Canvas",
+                    "label": "[Panel 1]",
+                    "height": 10157,
+                    "width": 3007,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/0/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/0",
+                            "resource": {
+                                "@id": "http://spinup-00104a.spinup.yale.edu:5004/ptiffs%2F1003311.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 10157,
+                                "width": 3007,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://spinup-00104a.spinup.yale.edu:5004/ptiffs%2F1003311.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/1",
+                    "@type": "sc:Canvas",
+                    "label": "[Panel 2]",
+                    "height": 10157,
+                    "width": 3007,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/1/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/1",
+                            "resource": {
+                                "@id": "http://spinup-00104a.spinup.yale.edu:5004/ptiffs%2F1003312.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 10157,
+                                "width": 3007,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://spinup-00104a.spinup.yale.edu:5004/ptiffs%2F1003312.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/2",
+                    "@type": "sc:Canvas",
+                    "label": "[Panel 3]",
+                    "height": 8093,
+                    "width": 3007,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/2/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/2",
+                            "resource": {
+                                "@id": "http://spinup-00104a.spinup.yale.edu:5004/ptiffs%2F1003313.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8093,
+                                "width": 3007,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://spinup-00104a.spinup.yale.edu:5004/ptiffs%2F1003313.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/3",
+                    "@type": "sc:Canvas",
+                    "label": "Recto Stitched",
+                    "height": 24502,
+                    "width": 3070,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/3/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/3",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/15512394/15512394.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 24502,
+                                "width": 3070,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/4/15512394/15512394.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/4",
+                    "@type": "sc:Canvas",
+                    "label": "Verso Panel 1",
+                    "height": 9948,
+                    "width": 3080,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/4/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/4",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/15512395/15512395.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 9948,
+                                "width": 3080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/5/15512395/15512395.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/5",
+                    "@type": "sc:Canvas",
+                    "label": "Verso Panel 2",
+                    "height": 10302,
+                    "width": 3080,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/5/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/5",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/15512396/15512396.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 10302,
+                                "width": 3080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/6/15512396/15512396.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/6",
+                    "@type": "sc:Canvas",
+                    "label": "Verso Panel 3",
+                    "height": 8359,
+                    "width": 3080,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/6/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/6",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/15512397/15512397.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8359,
+                                "width": 3080,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/7/15512397/15512397.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/7",
+                    "@type": "sc:Canvas",
+                    "label": "Verso Stitched",
+                    "height": 24517,
+                    "width": 3320,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/7/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/10269867/canvas/7",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/15512398/15512398.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 24517,
+                                "width": 3320,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=MEDRENMSSX02/8/15512398/15512398.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

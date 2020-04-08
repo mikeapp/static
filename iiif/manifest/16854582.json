@@ -1,0 +1,257 @@
+{
+    "@id": "https://mikeapp.github.io/static/iiif/manifest/16854582.json",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "label": "Beinecke object OID 16854582",
+    "sequences": [
+        {
+            "@id": "https://mikeapp.github.io/static/iiif/manifest/sequence/16854582",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/0",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. [1]",
+                    "height": 4375,
+                    "width": 3421,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/0/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/0",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854589.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4375,
+                                "width": 3421,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854589.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/1",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. 2",
+                    "height": 4375,
+                    "width": 3432,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/1/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/1",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854590.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4375,
+                                "width": 3432,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854590.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/2",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. 3",
+                    "height": 4370,
+                    "width": 3420,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/2/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/2",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854591.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4370,
+                                "width": 3420,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854591.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/3",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. 4",
+                    "height": 4379,
+                    "width": 3439,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/3/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/3",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854592.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4379,
+                                "width": 3439,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854592.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/4",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. 4[verso]",
+                    "height": 4384,
+                    "width": 3435,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/4/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/4",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854624.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4384,
+                                "width": 3435,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854624.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/5",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. 5",
+                    "height": 4378,
+                    "width": 3432,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/5/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/5",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854593.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4378,
+                                "width": 3432,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854593.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/6",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. [6]",
+                    "height": 4372,
+                    "width": 3427,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/6/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/6",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854594.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4372,
+                                "width": 3427,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854594.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/7",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. [6 verso]",
+                    "height": 4507,
+                    "width": 3459,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/7/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/7",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854625.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4507,
+                                "width": 3459,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854625.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/8",
+                    "@type": "sc:Canvas",
+                    "label": "[Career files unnumbered folder 9] The Thanks Be To Grandmother Winifred Foundation Grantees to be photographed, p. [7]",
+                    "height": 4367,
+                    "width": 3416,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/8/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/16854582/canvas/8",
+                            "resource": {
+                                "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854595.tif/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4367,
+                                "width": 3416,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://spinup-00104a.spinup.yale.edu/ptiffs%2F16854595.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

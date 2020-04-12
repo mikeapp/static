@@ -1,0 +1,310 @@
+{
+    "@id": "https://mikeapp.github.io/static/iiif/manifest/2018340.json",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "label": "Darvas, Lilli, as Coco in Chéri, by Anita Loos based on the novels Chéri and The Last of Chéri by Colette",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": ["Darvas, Lilli, as Coco in Chéri, by Anita Loos based on the novels Chéri and The Last of Chéri by Colette"]
+        },
+        {
+            "label": "Creator",
+            "value": ["Van Vechten, Carl, 1880-1964"]
+        },
+        {
+            "label": "Date",
+            "value": "1959 October 20"
+        },
+        {
+            "label": "Extent",
+            "value": "5 photographic prints"
+        },
+        {
+            "label": "Description",
+            "value": ["Stamped verso: \"Photograph by Carl Van Vechten. / 146 Central Park West / Cannot be reproduced without permission.\""]
+        },
+        {
+            "label": "Object Identifier (OID)",
+            "value": 2018340
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://mikeapp.github.io/static/iiif/manifest/sequence/2018340",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/0",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 1",
+                    "height": 4024,
+                    "width": 3250,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/0/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/0",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=PATREQIMGX01/5/1072085/1072085.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4024,
+                                "width": 3250,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=PATREQIMGX01/5/1072085/1072085.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/1",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 1",
+                    "height": 4032,
+                    "width": 3281,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/1/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/1",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=PATREQIMGX01/6/1072086/1072086.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4032,
+                                "width": 3281,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=PATREQIMGX01/6/1072086/1072086.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/2",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 2",
+                    "height": 4060,
+                    "width": 3270,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/2/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/2",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/5/1119515/1119515.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4060,
+                                "width": 3270,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/5/1119515/1119515.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/3",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 2",
+                    "height": 4060,
+                    "width": 3294,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/3/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/3",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/6/1119516/1119516.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4060,
+                                "width": 3294,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/6/1119516/1119516.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/4",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 3",
+                    "height": 4024,
+                    "width": 3258,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/4/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/4",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=PATREQIMGX01/7/1072087/1072087.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4024,
+                                "width": 3258,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=PATREQIMGX01/7/1072087/1072087.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/5",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 3",
+                    "height": 4047,
+                    "width": 3283,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/5/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/5",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=PATREQIMGX01/8/1072088/1072088.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4047,
+                                "width": 3283,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=PATREQIMGX01/8/1072088/1072088.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/6",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 4",
+                    "height": 4042,
+                    "width": 2973,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/6/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/6",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/7/1119517/1119517.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4042,
+                                "width": 2973,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/7/1119517/1119517.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/7",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 4",
+                    "height": 4072,
+                    "width": 2967,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/7/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/7",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/8/1119518/1119518.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4072,
+                                "width": 2967,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/8/1119518/1119518.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/8",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 5",
+                    "height": 4066,
+                    "width": 3241,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/8/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/8",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/9/1119519/1119519.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4066,
+                                "width": 3241,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/9/1119519/1119519.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/9",
+                    "@type": "sc:Canvas",
+                    "label": "Lili Darvas as the fortune teller in Cheri: No. IV rr 5",
+                    "height": 4054,
+                    "width": 3246,
+                    "images": [
+                        {
+                            "@id": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/9/image/1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://mikeapp.github.io/static/iiif/manifest/oid/2018340/canvas/9",
+                            "resource": {
+                                "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/0/1119520/1119520.jp2/full/250,/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4054,
+                                "width": 3246,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://brbl-zoom.library.yale.edu/fcgi-bin/iipsrv.fcgi?IIIF=VANVECHTENIMG/0/1119520/1119520.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

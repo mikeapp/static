@@ -1,0 +1,1864 @@
+{
+  "@id": "https://mikeapp.github.io/static/iiif/manifest/test/16705513.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "Correspondence",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "Correspondence"
+      ]
+    },
+    null,
+    {
+      "label": "Date",
+      "value": "1888"
+    },
+    null,
+    {
+      "label": "Call number",
+      "value": "WA MSS S-1332"
+    },
+    {
+      "label": "Box",
+      "value": "1"
+    },
+    {
+      "label": "Folder",
+      "value": "13"
+    },
+    {
+      "label": "Description",
+      "value": [
+        "Adolph Sutro (1830-1898), mining engineer, mayor of San Francisco, 1894-98.",
+        "Unpublished list kept with collection."
+      ]
+    },
+    {
+      "label": "Resource type",
+      "value": "Archives or Manuscripts"
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": 16705513
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://mikeapp.github.io/static/iiif/manifest/test/sequence/16705513",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/0",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2934,
+          "width": 4540,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/0/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/0",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705813/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2934,
+                "width": 4540,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705813",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3045,
+          "width": 2420,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/1/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/1",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705814/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3045,
+                "width": 2420,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705814",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/2",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3043,
+          "width": 2440,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/2/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/2",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705815/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3043,
+                "width": 2440,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705815",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/3",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3322,
+          "width": 2380,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/3/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/3",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705816/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3322,
+                "width": 2380,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705816",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/4",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3331,
+          "width": 2360,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/4/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/4",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705817/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3331,
+                "width": 2360,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705817",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/5",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3344,
+          "width": 2580,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/5/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/5",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705818/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3344,
+                "width": 2580,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705818",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/6",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3332,
+          "width": 5080,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/6/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/6",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705819/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3332,
+                "width": 5080,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705819",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/7",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3325,
+          "width": 2580,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/7/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/7",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705820/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3325,
+                "width": 2580,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705820",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/8",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2557,
+          "width": 1620,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/8/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/8",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705821/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2557,
+                "width": 1620,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705821",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/9",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2553,
+          "width": 1640,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/9/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/9",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705822/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2553,
+                "width": 1640,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705822",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/10",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2126,
+          "width": 1600,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/10/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/10",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705823/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2126,
+                "width": 1600,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705823",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/11",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2087,
+          "width": 3220,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/11/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/11",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705824/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2087,
+                "width": 3220,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705824",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/12",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2081,
+          "width": 1600,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/12/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/12",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705825/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2081,
+                "width": 1600,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705825",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/13",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3316,
+          "width": 2540,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/13/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/13",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705826/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3316,
+                "width": 2540,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705826",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/14",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3319,
+          "width": 2540,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/14/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/14",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705827/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3319,
+                "width": 2540,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705827",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/15",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3336,
+          "width": 2560,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/15/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/15",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705828/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3336,
+                "width": 2560,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705828",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/16",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2685,
+          "width": 1620,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/16/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/16",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705829/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2685,
+                "width": 1620,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705829",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/17",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2651,
+          "width": 1600,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/17/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/17",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705830/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2651,
+                "width": 1600,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705830",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/18",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3303,
+          "width": 2520,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/18/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/18",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705831/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3303,
+                "width": 2520,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705831",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/19",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3278,
+          "width": 2480,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/19/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/19",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705832/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3278,
+                "width": 2480,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705832",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/20",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3323,
+          "width": 2500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/20/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/20",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705833/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3323,
+                "width": 2500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705833",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/21",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3337,
+          "width": 2500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/21/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/21",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705834/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3337,
+                "width": 2500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705834",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/22",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3359,
+          "width": 2520,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/22/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/22",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705835/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3359,
+                "width": 2520,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705835",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/23",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3322,
+          "width": 2500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/23/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/23",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705836/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3322,
+                "width": 2500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705836",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/24",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3329,
+          "width": 2500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/24/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/24",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705837/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3329,
+                "width": 2500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705837",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/25",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3339,
+          "width": 2480,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/25/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/25",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705838/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3339,
+                "width": 2480,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705838",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/26",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3271,
+          "width": 2500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/26/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/26",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705839/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3271,
+                "width": 2500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705839",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/27",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3243,
+          "width": 2500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/27/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/27",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705840/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3243,
+                "width": 2500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705840",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/28",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3264,
+          "width": 2400,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/28/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/28",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705841/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3264,
+                "width": 2400,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705841",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/29",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3266,
+          "width": 2420,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/29/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/29",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705842/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3266,
+                "width": 2420,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705842",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/30",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3263,
+          "width": 2400,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/30/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/30",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705843/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3263,
+                "width": 2400,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705843",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/31",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3027,
+          "width": 2400,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/31/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/31",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705844/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3027,
+                "width": 2400,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705844",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/32",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3024,
+          "width": 2400,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/32/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/32",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705845/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3024,
+                "width": 2400,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705845",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/33",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3351,
+          "width": 2560,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/33/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/33",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705846/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3351,
+                "width": 2560,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705846",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/34",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3355,
+          "width": 2580,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/34/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/34",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705847/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3355,
+                "width": 2580,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705847",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/35",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3351,
+          "width": 2560,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/35/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/35",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705848/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3351,
+                "width": 2560,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705848",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/36",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3351,
+          "width": 2560,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/36/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/36",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705849/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3351,
+                "width": 2560,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705849",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/37",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3339,
+          "width": 2580,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/37/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/37",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705850/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3339,
+                "width": 2580,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705850",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/38",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3351,
+          "width": 5180,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/38/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/38",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705851/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3351,
+                "width": 5180,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705851",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/39",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3336,
+          "width": 2580,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/39/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/39",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705852/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3336,
+                "width": 2580,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705852",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/40",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3019,
+          "width": 2420,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/40/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/40",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705853/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3019,
+                "width": 2420,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705853",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/41",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3036,
+          "width": 2420,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/41/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/41",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705854/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3036,
+                "width": 2420,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705854",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/42",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3234,
+          "width": 2440,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/42/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/42",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705855/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3234,
+                "width": 2440,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705855",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/43",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3242,
+          "width": 2440,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/43/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/43",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705856/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3242,
+                "width": 2440,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705856",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/44",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3242,
+          "width": 2420,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/44/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/44",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705857/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3242,
+                "width": 2420,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705857",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/45",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3242,
+          "width": 2440,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/45/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/45",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705858/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3242,
+                "width": 2440,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705858",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/46",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3241,
+          "width": 2440,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/46/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/46",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705859/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3241,
+                "width": 2440,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705859",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/47",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3228,
+          "width": 2440,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/47/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/47",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705860/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3228,
+                "width": 2440,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705860",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/48",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3183,
+          "width": 2440,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/48/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/48",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705861/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3183,
+                "width": 2440,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705861",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/49",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3169,
+          "width": 2440,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/49/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/49",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705862/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3169,
+                "width": 2440,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705862",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/50",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3340,
+          "width": 2580,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/50/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/50",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705863/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3340,
+                "width": 2580,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705863",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/51",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3340,
+          "width": 2600,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/51/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/51",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705864/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3340,
+                "width": 2600,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705864",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/52",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3338,
+          "width": 2600,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/52/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/52",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705865/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3338,
+                "width": 2600,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705865",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/53",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2407,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/53/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/53",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705866/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2407,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705866",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/54",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2406,
+          "width": 1480,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/54/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/54",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705867/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2406,
+                "width": 1480,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705867",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/55",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2549,
+          "width": 1600,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/55/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/55",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705868/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2549,
+                "width": 1600,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705868",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/56",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2502,
+          "width": 1600,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/56/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/56",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705869/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2502,
+                "width": 1600,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705869",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/57",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2454,
+          "width": 1520,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/57/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/57",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705870/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2454,
+                "width": 1520,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705870",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/58",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2449,
+          "width": 1520,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/58/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/58",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705871/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2449,
+                "width": 1520,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705871",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/59",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2431,
+          "width": 1480,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/59/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/59",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705872/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2431,
+                "width": 1480,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705872",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/60",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2434,
+          "width": 2960,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/60/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/60",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705873/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2434,
+                "width": 2960,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705873",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/61",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2426,
+          "width": 1480,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/61/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/61",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705874/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2426,
+                "width": 1480,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705874",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/62",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3200,
+          "width": 2380,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/62/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/62",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705875/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3200,
+                "width": 2380,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705875",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/63",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 3159,
+          "width": 2380,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/63/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/63",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705876/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3159,
+                "width": 2380,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705876",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/64",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2440,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/64/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/64",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705877/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2440,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705877",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/65",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2409,
+          "width": 2980,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/65/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/65",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705878/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2409,
+                "width": 2980,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705878",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/66",
+          "@type": "sc:Canvas",
+          "label": "",
+          "height": 2399,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/66/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mikeapp.github.io/static/iiif/manifest/test/oid/16705513/canvas/66",
+              "resource": {
+                "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705879/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2399,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://spinup-0010ab-iiiftranscriptproductionservice.svc.spinup.yale.edu:8182/iiif/2/16705879",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

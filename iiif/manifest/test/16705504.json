@@ -20,7 +20,6 @@
       "label": "Date",
       "value": "1865 Dec 12"
     },
-    null,
     {
       "label": "Call number",
       "value": "WA MSS S-1332"
@@ -46,7 +45,7 @@
     },
     {
       "label": "Object Identifier (OID)",
-      "value": 16705504
+      "value": "16705504"
     }
   ],
   "sequences": [

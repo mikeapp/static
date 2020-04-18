@@ -10,12 +10,10 @@
         "Correspondence"
       ]
     },
-    null,
     {
       "label": "Date",
       "value": "1867"
     },
-    null,
     {
       "label": "Call number",
       "value": "WA MSS S-1332"
@@ -41,7 +39,7 @@
     },
     {
       "label": "Object Identifier (OID)",
-      "value": 16705506
+      "value": "16705506"
     }
   ],
   "sequences": [

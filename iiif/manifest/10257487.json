@@ -1,0 +1,154 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/10257487.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "[Correspondence. Pearson, Norman Holmes]",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "[Correspondence. Pearson, Norman Holmes]"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": "1939, 1946"
+    },
+    {
+      "label": "Extent",
+      "value": "1 folder"
+    },
+    {
+      "label": "Call number",
+      "value": "YCAL MSS 126"
+    },
+    {
+      "label": "Box",
+      "value": "Box 1"
+    },
+    {
+      "label": "Folder",
+      "value": "Folder 36"
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "10257487"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/10257487",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459147",
+          "@type": "sc:Canvas",
+          "label": "[1939 August 18]",
+          "height": 4406,
+          "width": 3434,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459147/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459147",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1459147/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4406,
+                "width": 3434,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1459147",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459148",
+          "@type": "sc:Canvas",
+          "label": "[After 1946 October 22]",
+          "height": 3986,
+          "width": 3228,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459148/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459148",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1459148/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3986,
+                "width": 3228,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1459148",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459149",
+          "@type": "sc:Canvas",
+          "label": "[After 1946 October 22, enclosure]",
+          "height": 9308,
+          "width": 6770,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459149/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459149",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1459149/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9308,
+                "width": 6770,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1459149",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459150",
+          "@type": "sc:Canvas",
+          "label": "[After 1946 October 22, enclosure]",
+          "height": 9244,
+          "width": 6694,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459150/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10257487/canvas/1459150",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1459150/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 9244,
+                "width": 6694,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1459150",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

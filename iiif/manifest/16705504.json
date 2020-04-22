@@ -1,0 +1,167 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/16705504.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "Correspondence",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "Correspondence"
+      ]
+    },
+    {
+      "label": "Creator",
+      "value": [
+        "Sutro, Adolph, 1830-1898"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": "1865 Dec 12"
+    },
+    {
+      "label": "Call number",
+      "value": "WA MSS S-1332"
+    },
+    {
+      "label": "Box",
+      "value": "1"
+    },
+    {
+      "label": "Folder",
+      "value": "1"
+    },
+    {
+      "label": "Description",
+      "value": [
+        "Adolph Sutro (1830-1898), mining engineer, mayor of San Francisco, 1894-98.",
+        "Unpublished list kept with collection."
+      ]
+    },
+    {
+      "label": "Resource type",
+      "value": "Archives or Manuscripts"
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "16705504"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/16705504",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705515",
+          "@type": "sc:Canvas",
+          "label": "  ",
+          "height": 2921,
+          "width": 4517,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705515/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705515",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/16705515/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2921,
+                "width": 4517,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/16705515",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705516",
+          "@type": "sc:Canvas",
+          "label": "  ",
+          "height": 3783,
+          "width": 2438,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705516/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705516",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/16705516/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3783,
+                "width": 2438,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/16705516",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705517",
+          "@type": "sc:Canvas",
+          "label": "  ",
+          "height": 3733,
+          "width": 2517,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705517/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705517",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/16705517/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3733,
+                "width": 2517,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/16705517",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705518",
+          "@type": "sc:Canvas",
+          "label": "  ",
+          "height": 3771,
+          "width": 2438,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705518/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/16705504/canvas/16705518",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/16705518/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3771,
+                "width": 2438,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/16705518",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

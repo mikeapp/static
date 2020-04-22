@@ -1,0 +1,1132 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/10259970.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "[Correspondence. Pearson, Norman Holmes]",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "[Correspondence. Pearson, Norman Holmes]"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": "1961"
+    },
+    {
+      "label": "Extent",
+      "value": "1 folder"
+    },
+    {
+      "label": "Call number",
+      "value": "GEN MSS 245"
+    },
+    {
+      "label": "Box",
+      "value": "Box 19"
+    },
+    {
+      "label": "Folder",
+      "value": "Folder 395"
+    },
+    {
+      "label": "Description",
+      "value": [
+        "Folder includes a postcard from Zurich with notes from both Pearson and Bryher."
+      ]
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "10259970"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/10259970",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461110",
+          "@type": "sc:Canvas",
+          "label": "[1961 January 2]",
+          "height": 4536,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461110/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461110",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461110/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4536,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461110",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461111",
+          "@type": "sc:Canvas",
+          "label": "[1961 February 6]",
+          "height": 4519,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461111/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461111",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461111/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4519,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461111",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461112",
+          "@type": "sc:Canvas",
+          "label": "[1961 February 6, enclosure, p. 1]",
+          "height": 4519,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461112/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461112",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461112/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4519,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461112",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461113",
+          "@type": "sc:Canvas",
+          "label": "[1961 February 6, enclosure, p. 2]",
+          "height": 4519,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461113/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461113",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461113/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4519,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461113",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461114",
+          "@type": "sc:Canvas",
+          "label": "[1961 February 6, enclosure, p. 3]",
+          "height": 4519,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461114/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461114",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461114/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4519,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461114",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461115",
+          "@type": "sc:Canvas",
+          "label": "[1961 February 6, enclosure, p. 4]",
+          "height": 4519,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461115/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461115",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461115/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4519,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461115",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461116",
+          "@type": "sc:Canvas",
+          "label": "[1961 February 6, enclosure, p. 5]",
+          "height": 4519,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461116/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461116",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461116/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4519,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461116",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461117",
+          "@type": "sc:Canvas",
+          "label": "[1961 February 6, enclosure, p. 6]",
+          "height": 4519,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461117/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461117",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461117/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4519,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461117",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461118",
+          "@type": "sc:Canvas",
+          "label": "[1961 February 6, envelope]",
+          "height": 1810,
+          "width": 3935,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461118/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461118",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461118/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1810,
+                "width": 3935,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461118",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461119",
+          "@type": "sc:Canvas",
+          "label": "[1961 March 6]",
+          "height": 3864,
+          "width": 2538,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461119/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461119",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461119/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3864,
+                "width": 2538,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461119",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461120",
+          "@type": "sc:Canvas",
+          "label": "[1961 March 26, recto]",
+          "height": 1520,
+          "width": 2346,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461120/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461120",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461120/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1520,
+                "width": 2346,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461120",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461121",
+          "@type": "sc:Canvas",
+          "label": "[1961 March 26, verso]",
+          "height": 1531,
+          "width": 2342,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461121/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461121",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461121/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1531,
+                "width": 2342,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461121",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461122",
+          "@type": "sc:Canvas",
+          "label": "[1961 June 28, recto]",
+          "height": 1799,
+          "width": 2471,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461122/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461122",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461122/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1799,
+                "width": 2471,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461122",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461123",
+          "@type": "sc:Canvas",
+          "label": "[1961 June 28, verso]",
+          "height": 1795,
+          "width": 2468,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461123/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461123",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461123/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1795,
+                "width": 2468,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461123",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461124",
+          "@type": "sc:Canvas",
+          "label": "[1961 August 4]",
+          "height": 4518,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461124/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461124",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461124/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4518,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461124",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461125",
+          "@type": "sc:Canvas",
+          "label": "[1961 August 4, envelope]",
+          "height": 1832,
+          "width": 3923,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461125/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461125",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461125/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1832,
+                "width": 3923,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461125",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461126",
+          "@type": "sc:Canvas",
+          "label": "[1961 August 8]",
+          "height": 4542,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461126/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461126",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461126/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4542,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461126",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461127",
+          "@type": "sc:Canvas",
+          "label": "[1961 August 23]",
+          "height": 3524,
+          "width": 2355,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461127/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461127",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461127/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3524,
+                "width": 2355,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461127",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461128",
+          "@type": "sc:Canvas",
+          "label": "[1961 August 23, envelope]",
+          "height": 1585,
+          "width": 2728,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461128/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461128",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461128/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1585,
+                "width": 2728,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461128",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461129",
+          "@type": "sc:Canvas",
+          "label": "[1961 August 29]",
+          "height": 3836,
+          "width": 2511,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461129/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461129",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461129/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3836,
+                "width": 2511,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461129",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461130",
+          "@type": "sc:Canvas",
+          "label": "[1961 September 1]",
+          "height": 3530,
+          "width": 2330,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461130/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461130",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461130/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3530,
+                "width": 2330,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461130",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461131",
+          "@type": "sc:Canvas",
+          "label": "[1961 September 1, envelope]",
+          "height": 1994,
+          "width": 2734,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461131/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461131",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461131/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1994,
+                "width": 2734,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461131",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461132",
+          "@type": "sc:Canvas",
+          "label": "[1961 September 20]",
+          "height": 4523,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461132/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461132",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461132/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4523,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461132",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461133",
+          "@type": "sc:Canvas",
+          "label": "[1961 September 22]",
+          "height": 4523,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461133/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461133",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461133/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4523,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461133",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461134",
+          "@type": "sc:Canvas",
+          "label": "[1961 September 22, envelope]",
+          "height": 1800,
+          "width": 3959,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461134/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461134",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461134/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1800,
+                "width": 3959,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461134",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461135",
+          "@type": "sc:Canvas",
+          "label": "[1961 September 25, p. 1]",
+          "height": 4523,
+          "width": 3540,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461135/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461135",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461135/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4523,
+                "width": 3540,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461135",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461136",
+          "@type": "sc:Canvas",
+          "label": "[1961 September 25, p. 2]",
+          "height": 4523,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461136/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461136",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461136/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4523,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461136",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461137",
+          "@type": "sc:Canvas",
+          "label": "[1961 October 1]",
+          "height": 4523,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461137/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461137",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461137/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4523,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461137",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461138",
+          "@type": "sc:Canvas",
+          "label": "[1961 October 1, envelope]",
+          "height": 1834,
+          "width": 3956,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461138/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461138",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461138/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1834,
+                "width": 3956,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461138",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461139",
+          "@type": "sc:Canvas",
+          "label": "[1961 October 27]",
+          "height": 4523,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461139/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461139",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461139/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4523,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461139",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461140",
+          "@type": "sc:Canvas",
+          "label": "[1961 November 12]",
+          "height": 4523,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461140/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461140",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461140/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4523,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461140",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461141",
+          "@type": "sc:Canvas",
+          "label": "[1961 November 12, envelope]",
+          "height": 1599,
+          "width": 2725,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461141/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461141",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461141/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1599,
+                "width": 2725,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461141",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461142",
+          "@type": "sc:Canvas",
+          "label": "[1961 November 24]",
+          "height": 3519,
+          "width": 2376,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461142/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461142",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461142/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3519,
+                "width": 2376,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461142",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461143",
+          "@type": "sc:Canvas",
+          "label": "[1961 November 24, envelope]",
+          "height": 1810,
+          "width": 2736,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461143/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461143",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461143/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1810,
+                "width": 2736,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461143",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461144",
+          "@type": "sc:Canvas",
+          "label": "[1961 November 28]",
+          "height": 4516,
+          "width": 3574,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461144/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461144",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461144/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4516,
+                "width": 3574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461144",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461145",
+          "@type": "sc:Canvas",
+          "label": "[1961 December 8]",
+          "height": 4539,
+          "width": 3535,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461145/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461145",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461145/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4539,
+                "width": 3535,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461145",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461146",
+          "@type": "sc:Canvas",
+          "label": "[1961 December 18, p. 4, 1]",
+          "height": 1668,
+          "width": 3222,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461146/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461146",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461146/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1668,
+                "width": 3222,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461146",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461147",
+          "@type": "sc:Canvas",
+          "label": "[1961 December 18, p. 2-3]",
+          "height": 1668,
+          "width": 3222,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461147/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461147",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461147/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1668,
+                "width": 3222,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461147",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461148",
+          "@type": "sc:Canvas",
+          "label": "[1961 December 18, envelope]",
+          "height": 1766,
+          "width": 1764,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461148/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461148",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461148/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1766,
+                "width": 1764,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461148",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461149",
+          "@type": "sc:Canvas",
+          "label": "[1961 December 31]",
+          "height": 3823,
+          "width": 2551,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461149/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/10259970/canvas/1461149",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461149/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3823,
+                "width": 2551,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1461149",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

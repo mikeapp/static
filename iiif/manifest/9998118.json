@@ -1,0 +1,136 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/9998118.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "Father and mothers. The family group and the children's first photograph; Lizzie, May's & Rowland's",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "Father and mothers. The family group and the children's first photograph; Lizzie, May's & Rowland's"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "1877 January 15"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "1 photographic print",
+        "10.2 x 14.9 cm. on mount 10.6 x 16.4 cm.",
+        "b&w"
+      ]
+    },
+    {
+      "label": "Call number",
+      "value": "WA MSS S-2512"
+    },
+    {
+      "label": "Box",
+      "value": "Box 1"
+    },
+    {
+      "label": "Description",
+      "value": [
+        "Caption from envelope.",
+        "See also WA MSS S-2512."
+      ]
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "9998118"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/9998118",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357374",
+          "@type": "sc:Canvas",
+          "label": "recto",
+          "height": 1740,
+          "width": 2632,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357374/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357374",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357374/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1740,
+                "width": 2632,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357374",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357375",
+          "@type": "sc:Canvas",
+          "label": "verso",
+          "height": 1740,
+          "width": 2639,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357375/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357375",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357375/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1740,
+                "width": 2639,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357375",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357376",
+          "@type": "sc:Canvas",
+          "label": "envelope",
+          "height": 2016,
+          "width": 2873,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357376/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998118/canvas/1357376",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357376/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2016,
+                "width": 2873,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357376",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

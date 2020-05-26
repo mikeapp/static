@@ -1,0 +1,81 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/9998120.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "[Portrait of Elizabeth Willard]",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "[Portrait of Elizabeth Willard]"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "[187-]"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "1 apron",
+        "33 x 38 cm."
+      ]
+    },
+    {
+      "label": "Call number",
+      "value": "WA MSS S-2512"
+    },
+    {
+      "label": "Box",
+      "value": "Box 1"
+    },
+    {
+      "label": "Description",
+      "value": [
+        "Framed. Bound with fabric tape to portrait of Rowland Willard",
+        "See also WA MSS S-2512."
+      ]
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "9998120"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/9998120",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998120/canvas/1357378",
+          "@type": "sc:Canvas",
+          "label": "  ",
+          "height": 2865,
+          "width": 2090,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998120/canvas/1357378/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998120/canvas/1357378",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357378/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2865,
+                "width": 2090,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357378",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

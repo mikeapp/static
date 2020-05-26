@@ -1,0 +1,112 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/2111040.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "Mr & Mrs. Augustus Bean",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "Mr & Mrs. Augustus Bean"
+      ]
+    },
+    {
+      "label": "Creator",
+      "value": [
+        "Brady, John Green, 1847-1918"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "ca. 1904"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "1 photographic print",
+        "17 x 11 cm.",
+        "b&w"
+      ]
+    },
+    {
+      "label": "Call number",
+      "value": "WA MSS S-1206"
+    },
+    {
+      "label": "Box",
+      "value": "Box 24"
+    },
+    {
+      "label": "Folder",
+      "value": "Folder 24-82"
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "2111040"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/2111040",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111040/canvas/1345514",
+          "@type": "sc:Canvas",
+          "label": "recto",
+          "height": 2751,
+          "width": 1822,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111040/canvas/1345514/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111040/canvas/1345514",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345514/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2751,
+                "width": 1822,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345514",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111040/canvas/1345515",
+          "@type": "sc:Canvas",
+          "label": "verso",
+          "height": 2758,
+          "width": 1788,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111040/canvas/1345515/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111040/canvas/1345515",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345515/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2758,
+                "width": 1788,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345515",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

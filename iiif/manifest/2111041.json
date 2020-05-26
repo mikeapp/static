@@ -1,0 +1,79 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/2111041.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "[Totems at Kasan (i.e. Kasaan)]",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "[Totems at Kasan (i.e. Kasaan)]"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "Undated"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "1 Negative",
+        "12.6 x 17.5 cm.",
+        "b&w"
+      ]
+    },
+    {
+      "label": "Call number",
+      "value": "WA MSS S-1206"
+    },
+    {
+      "label": "Box",
+      "value": "Box 29"
+    },
+    {
+      "label": "Folder",
+      "value": "Folder 29-227"
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "2111041"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/2111041",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111041/canvas/1345516",
+          "@type": "sc:Canvas",
+          "label": "  ",
+          "height": 2868,
+          "width": 4055,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111041/canvas/1345516/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111041/canvas/1345516",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345516/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2868,
+                "width": 4055,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345516",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

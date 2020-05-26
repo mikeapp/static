@@ -1,0 +1,106 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/2111043.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "[Totems at Kasan (i.e. Kasaan)]",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "[Totems at Kasan (i.e. Kasaan)]"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "1901"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "1 Photographic print",
+        "12 x 16.7 cm.",
+        "b&w"
+      ]
+    },
+    {
+      "label": "Call number",
+      "value": "WA MSS S-1206"
+    },
+    {
+      "label": "Box",
+      "value": "Box 27"
+    },
+    {
+      "label": "Folder",
+      "value": "Folder 27-150"
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "2111043"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/2111043",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111043/canvas/1345519",
+          "@type": "sc:Canvas",
+          "label": "recto",
+          "height": 1936,
+          "width": 2675,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111043/canvas/1345519/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111043/canvas/1345519",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345519/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1936,
+                "width": 2675,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345519",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111043/canvas/1345520",
+          "@type": "sc:Canvas",
+          "label": "verso",
+          "height": 2672,
+          "width": 1952,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111043/canvas/1345520/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/2111043/canvas/1345520",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345520/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2672,
+                "width": 1952,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1345520",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

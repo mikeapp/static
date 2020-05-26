@@ -1,0 +1,164 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/9998117.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "[Masonic apron, with envelope]",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "[Masonic apron, with envelope]"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "1822"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "1 apron",
+        "33 x 38 cm."
+      ]
+    },
+    {
+      "label": "Call number",
+      "value": "WA MSS S-2512"
+    },
+    {
+      "label": "Box",
+      "value": "Box 3"
+    },
+    {
+      "label": "Description",
+      "value": [
+        "In envelope with caption: My old masonic apron / Royal arch, 32nd degree [canceled] / Rowland Willard, M.D. / St. Charles, Mo. / A.D. 1822 / Junior warden.",
+        "In folder with typescript letter and history of Haddonfield [N.J.] Lodge no. 130, F. & A. M.",
+        "MS note contineus on back of envelope.",
+        "See also WA MSS S-2512."
+      ]
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "9998117"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/9998117",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357386",
+          "@type": "sc:Canvas",
+          "label": "[Apron, recto]",
+          "height": 3639,
+          "width": 4060,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357386/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357386",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357386/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3639,
+                "width": 4060,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357386",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357387",
+          "@type": "sc:Canvas",
+          "label": "[Apron, verso]",
+          "height": 3660,
+          "width": 4037,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357387/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357387",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357387/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3660,
+                "width": 4037,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357387",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357388",
+          "@type": "sc:Canvas",
+          "label": "[Envelope, recto]",
+          "height": 2504,
+          "width": 5337,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357388/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357388",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357388/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2504,
+                "width": 5337,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357388",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357389",
+          "@type": "sc:Canvas",
+          "label": "[Envelope, verso]",
+          "height": 2519,
+          "width": 5288,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357389/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998117/canvas/1357389",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357389/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2519,
+                "width": 5288,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1357389",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

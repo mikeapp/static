@@ -1,0 +1,70 @@
+{
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/9998542.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "label": "Saturday 29th",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": [
+        "Saturday 29th"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "1846 August 29"
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "2 p.",
+        "24 cm."
+      ]
+    },
+    {
+      "label": "Call number",
+      "value": "WA MSS S-867"
+    },
+    {
+      "label": "Object Identifier (OID)",
+      "value": "9998542"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/sequence/9998542",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998542/canvas/1359858",
+          "@type": "sc:Canvas",
+          "label": "p. 96-97",
+          "height": 4248,
+          "width": 7089,
+          "images": [
+            {
+              "@id": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998542/canvas/1359858/image/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://transcribe-manifests.library.yale.edu/iiif/manifest/oid/9998542/canvas/1359858",
+              "resource": {
+                "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1359858/full/250,/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4248,
+                "width": 7089,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif-transcribe.library.yale.edu/iiif/2/1359858",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

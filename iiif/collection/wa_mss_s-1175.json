@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json\"",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://transcribe-manifests.library.yale.edu/iiif/collection/wa_mss_s-1175.json",
   "@type": "sc:Collection",
   "label": "Collection for wa_mss_s-1175",

@@ -1,0 +1,24 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json\"",
+  "@id": "https://transcribe-manifests.library.yale.edu/iiif/collection/wa_mss_s-188.json",
+  "@type": "sc:Collection",
+  "label": "Collection for wa_mss_s-188",
+  "manifests": [
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/12318483.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/10887078.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/10887080.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/16699287.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/2026842.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/16697366.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/16697367.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/2069292.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/2110550.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/15826981.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/2054818.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/2054819.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/16695983.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/16695984.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/16857221.json",
+    "https://transcribe-manifests.library.yale.edu/iiif/manifest/10556716.json"
+  ]
+}
